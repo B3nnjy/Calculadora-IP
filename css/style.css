@@ -54,11 +54,6 @@ main{
     cursor: pointer;
 }
 
-#foter{
-    width: 100vw;
-    flex-basis: auto;
-}
-
 #info{
     width: 700px;
     justify-content: space-around;
