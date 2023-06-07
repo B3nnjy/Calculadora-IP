@@ -1,2 +1,2 @@
 # Calculadora-IP
-Calculo de subredes y sus hosts
+Calculo de subredes y hosts
