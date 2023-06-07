@@ -1,0 +1,11 @@
+{
+  "name": "calc-de-ip",
+  "version": "1.0.0",
+  "description": "Calculadora de IPs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben.nji",
+  "license": "ISC"
+}
